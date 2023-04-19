@@ -33,7 +33,7 @@
         MostrarMensajesDeJugadas(Num1, Num2, Num3, Num4, Num5, SalioJugadaServida)
 
 
-        'Se me ocurrio esto para conservar los dados que el usario quiera, pero no lo ejecuta 2 veces'
+       
         If SalioJugadaServida = False Then
             Dim X As Integer
             Dim CambiaDado1 As Boolean = True, CambiaDado2 As Boolean = True, CambiaDado3 As Boolean = True, CambiaDado4 As Boolean = True, CambiaDado5 As Boolean = True
